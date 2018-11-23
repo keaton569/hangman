@@ -1,0 +1,6 @@
+﻿  hangman.cpp
+d:\code projects\hangman\hangman\hangman.cpp(117): warning C4018: '>': signed/unsigned mismatch
+d:\code projects\hangman\hangman\hangman.cpp(81): warning C4101: 'countLetters': unreferenced local variable
+d:\code projects\hangman\hangman\hangman.cpp(80): warning C4101: 'mostUsedLetter': unreferenced local variable
+d:\code projects\hangman\hangman\hangman.cpp(316): warning C4018: '<': signed/unsigned mismatch
+  hangman.vcxproj -> D:\Code Projects\hangman\Debug\hangman.exe
